@@ -8,7 +8,7 @@ namespace BookApp
 
         public string title;
         public string author;
-        public string pages;
+        public int pages;
         }
     }
 }
