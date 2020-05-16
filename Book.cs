@@ -6,7 +6,8 @@ namespace BookApp
         public Book()
         {
 
-            public string title;
+        public string title;
+        public string author;
         }
     }
 }
